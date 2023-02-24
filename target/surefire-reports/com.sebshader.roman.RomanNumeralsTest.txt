@@ -1,0 +1,33 @@
+-------------------------------------------------------------------------------
+Test set: com.sebshader.roman.RomanNumeralsTest
+-------------------------------------------------------------------------------
+Tests run: 29, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.496 s - in com.sebshader.roman.RomanNumeralsTest
+com.sebshader.roman.RomanNumeralsTest.stringExceptionTest(String)[1]  Time elapsed: 0.083 s
+com.sebshader.roman.RomanNumeralsTest.stringExceptionTest(String)[2]  Time elapsed: 0.005 s
+com.sebshader.roman.RomanNumeralsTest.stringExceptionTest(String)[3]  Time elapsed: 0.002 s
+com.sebshader.roman.RomanNumeralsTest.stringExceptionTest(String)[4]  Time elapsed: 0.003 s
+com.sebshader.roman.RomanNumeralsTest.stringExceptionTest(String)[5]  Time elapsed: 0.004 s
+com.sebshader.roman.RomanNumeralsTest.stringExceptionTest(String)[6]  Time elapsed: 0.003 s
+com.sebshader.roman.RomanNumeralsTest.stringExceptionTest(String)[7]  Time elapsed: 0.002 s
+com.sebshader.roman.RomanNumeralsTest.stringExceptionTest(String)[8]  Time elapsed: 0.003 s
+com.sebshader.roman.RomanNumeralsTest.stringExceptionTest(String)[9]  Time elapsed: 0.003 s
+com.sebshader.roman.RomanNumeralsTest.stringExceptionTest(String)[10]  Time elapsed: 0.002 s
+com.sebshader.roman.RomanNumeralsTest.stringExceptionTest(String)[11]  Time elapsed: 0.003 s
+com.sebshader.roman.RomanNumeralsTest.stringExceptionTest(String)[12]  Time elapsed: 0.002 s
+com.sebshader.roman.RomanNumeralsTest.stringExceptionTest(String)[13]  Time elapsed: 0.002 s
+com.sebshader.roman.RomanNumeralsTest.intExceptionTest(int)[1]  Time elapsed: 0.003 s
+com.sebshader.roman.RomanNumeralsTest.intExceptionTest(int)[2]  Time elapsed: 0.003 s
+com.sebshader.roman.RomanNumeralsTest.intExceptionTest(int)[3]  Time elapsed: 0.002 s
+com.sebshader.roman.RomanNumeralsTest.toStringTest(int, String)[1]  Time elapsed: 0.004 s
+com.sebshader.roman.RomanNumeralsTest.toStringTest(int, String)[2]  Time elapsed: 0.002 s
+com.sebshader.roman.RomanNumeralsTest.toStringTest(int, String)[3]  Time elapsed: 0.002 s
+com.sebshader.roman.RomanNumeralsTest.toStringTest(int, String)[4]  Time elapsed: 0.003 s
+com.sebshader.roman.RomanNumeralsTest.toStringTest(int, String)[5]  Time elapsed: 0.002 s
+com.sebshader.roman.RomanNumeralsTest.toStringTest(String, int)[1]  Time elapsed: 0.002 s
+com.sebshader.roman.RomanNumeralsTest.toStringTest(String, int)[2]  Time elapsed: 0.003 s
+com.sebshader.roman.RomanNumeralsTest.toStringTest(String, int)[3]  Time elapsed: 0.006 s
+com.sebshader.roman.RomanNumeralsTest.toStringTest(String, int)[4]  Time elapsed: 0.002 s
+com.sebshader.roman.RomanNumeralsTest.toStringTest(String, int)[5]  Time elapsed: 0.007 s
+com.sebshader.roman.RomanNumeralsTest.toStringTest(String, int)[6]  Time elapsed: 0.002 s
+com.sebshader.roman.RomanNumeralsTest.toStringTest(String, int)[7]  Time elapsed: 0.002 s
+com.sebshader.roman.RomanNumeralsTest.toStringTest(String, int)[8]  Time elapsed: 0.002 s

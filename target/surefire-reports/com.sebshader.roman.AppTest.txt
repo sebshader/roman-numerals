@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: com.sebshader.roman.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.135 s - in com.sebshader.roman.AppTest
+com.sebshader.roman.AppTest.shouldAnswerWithTrue  Time elapsed: 0.056 s
