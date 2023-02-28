@@ -36,12 +36,12 @@ public class RomanNumeral {
             if(level < prevLevel) {
                 // ten's place (last multiple of 4), since we need to 
                 // figure out if the last was the correct "1"'s place
-                int roundLevel = (level & ~2);
+                int roundLevel = (level & ~3);
                 if (((prevLevel - roundLevel) == 4) && (baseLevel <= level)) {
                     if(baseLevel == level && (level & 2) != 0)
                         throw new NumberFormatException("2 5-digits in a row at position " + i);
                     borrowed = true;
-                    arabic -= numbers[roundLevel + 4] << 1;
+                    arabic -= numbers[prevLevel] << 1;
                     baseLevel = level;
 
                     prevLevel = level;
